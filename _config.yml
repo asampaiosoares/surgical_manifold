@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Surgical inference
+title: Surgical manifold
 email: anonio.soares.17@ucl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website to share ideas on my research interests and clinical practice. 
